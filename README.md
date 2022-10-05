@@ -1,1 +1,1 @@
-# Rectangular-calculation
+# Rectangular area and perimeter calculation
